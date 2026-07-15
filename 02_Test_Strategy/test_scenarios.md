@@ -1,4 +1,4 @@
-### 📊 Performance Testing Scenarios
+###  Performance Testing Scenarios
 
 - [ ] **1. Baseline Performance Test**
   * **Load:** 5 users
